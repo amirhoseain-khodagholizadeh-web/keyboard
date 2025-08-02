@@ -1,0 +1,245 @@
+.first-line {
+    text-align: center;
+    width: 100%;
+    margin-top: 200px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -100px;
+}
+
+button {
+    border: 1px solid black
+}
+
+div {
+    position: relative;
+    height: 333px;
+    width: 956px;
+    background: #b2bec3;
+    text-align: center;
+    display: inline-block;
+    border-radius: 19px 19px 10px 10px;
+    padding: 5px 0px 5px 0px;
+    box-shadow: 1px 2px 8px -1px #0404047a;
+}
+
+.fst1 {
+    height: 34px;
+    width: 51.5px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.fst {
+    height: 34px;
+    width: 61px;
+    border-radius: 27px 10px 10px 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+    margin-right: 15px;
+
+}
+
+.lastbutton {
+    height: 34px;
+    width: 51px;
+    border-radius: 10px 27px 10px 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+    margin-left: 15px;
+
+}
+
+.snd {
+    height: 50px;
+    width: 54px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.snd1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.back {
+    height: 50px;
+    width: 188px;
+    border-radius: 10px;
+    margin-top: 6px;
+    /* box-shadow: 4px 5px; */
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.tab {
+    height: 50px;
+    width: 81px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.trd1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 6px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.trd2 {
+    height: 50px;
+    width: 158px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.caps {
+    height: 50px;
+    width: 104px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.fort1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.enter {
+    height: 50px;
+    width: 189px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.shift {
+    height: 50px;
+    width: 171px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.shift2 {
+    height: 50px;
+    width: 232px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.fift1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.last {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.fn {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.window {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.alt {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.space {
+    height: 50px;
+    width: 515px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.last2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.alt2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.left {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    position: relative;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.right {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-left: 54px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.top {
+    height: 22px;
+    width: 50px;
+    border-radius: 20px;
+    align-content: center;
+    position: absolute;
+    top: x;
+    bottom: 30px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.bottom {
+    height: 22px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    position: absolute;
+    top: x;
+    bottom: 6px;
+    box-shadow: 0px 0px 6px 2px #0e225a45;
+}
+
+.btnHover {
+    border: none !important;
+    transform: scale(0.9);
+    background: #a8a8a8e7;
+    transition: .2s;
+}
